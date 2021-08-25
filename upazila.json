@@ -194,7 +194,7 @@
                 "name": "Bancharampur"
             },
             {
-                "name": "Brahmanbaria Sadar "
+                "name": "Brahmanbaria Sadar"
             },
             {
                 "name": "Kasba"
@@ -353,7 +353,7 @@
                 "name": "Monohargonj"
             },
             {
-                "name": "Sadar Dakshin "
+                "name": "Sadar Dakshin"
             }
         ]
     },
@@ -532,10 +532,10 @@
         "district": "Dhaka",
         "upazila": [
             {
-                "name": "Dhaka North City Corporation"
+                "name": "Dhaka Uttar City Corporation"
             },
             {
-                "name": "Dhaka South City Corporation"
+                "name": "Dhaka Dakshin City Corporation"
             },
             {
                 "name": "Dhamrai"
@@ -717,7 +717,7 @@
                 "name": "Bandar"
             },
             {
-                "name": "Narayanganj Cit Corporation"
+                "name": "Narayanganj City Corporation"
             },
             {
                 "name": "Narayanganj Sadar"
